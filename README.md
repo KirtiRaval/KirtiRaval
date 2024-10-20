@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @KirtiRaval
+- 👀 I’m interested in software development, machine learning, and web technologies.
+- 🌱 I’m currently learning cloud computing and exploring new programming languages.
+- 💞️ I’m looking to collaborate on open-source projects, particularly in web development and AI.
+- 📫 How to reach me: [ email : ravalkirti99@gmail.com] or connect with me on [LinkedIn : https://www.linkedin.com/in/kirtiraval/].
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love hiking and have climbed several beautiful peaks in my free time!
